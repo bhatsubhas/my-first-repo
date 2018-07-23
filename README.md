@@ -1,6 +1,6 @@
 # This is large heading
 
-## This is smallert heading
+## This is smaller heading
 
 And as **imagination** bodies forth,
 The forms of things **unknown**, the poet's pen,
@@ -29,6 +29,7 @@ Here is how you make [a link](https://www.wikipedia.org/).
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
 Simple function in python
+
 ```
 def simple_func():
     print("Hello, World!")
