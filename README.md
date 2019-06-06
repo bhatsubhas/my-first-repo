@@ -30,7 +30,7 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 Simple function in python
 
-```
+```python
 def simple_func():
     print("Hello, World!")
 ```
