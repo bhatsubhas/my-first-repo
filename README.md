@@ -34,3 +34,10 @@ Simple function in python
 def simple_func():
     print("Hello, World!")
 ```
+Simple method in Java
+```java
+public static void main(String[] args)
+{
+    System.out.println("Hello World!");
+}
+````
