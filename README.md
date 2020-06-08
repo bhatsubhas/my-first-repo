@@ -41,3 +41,16 @@ public static void main(String[] args)
     System.out.println("Hello World!");
 }
 ````
+
+An example method in Groovy
+```
+@RestController
+class WebApplication
+{
+	@RequestMapping("/")
+	String home()
+	{
+		"<h1>Hello, World!</h1>"
+	}
+}
+```
