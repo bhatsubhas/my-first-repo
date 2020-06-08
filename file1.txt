@@ -1,1 +1,2 @@
-This is a new line added as new feature called my feature
+This is a new line added as feature called my feature
+I am modifying this based on my experience.
