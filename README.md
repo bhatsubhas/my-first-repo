@@ -48,7 +48,7 @@ An example method in Groovy
 class WebApplication
 {
 	@RequestMapping("/")
-	String home()
+	String homePage()
 	{
 		"<h1>Hello, World!</h1>"
 	}
