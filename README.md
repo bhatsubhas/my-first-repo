@@ -31,7 +31,7 @@ Here is how you make [a link](https://www.wikipedia.org/).
 Simple function in python
 
 ```python
-def simple_func():
+def main():
     print("Hello, World!")
 ```
 Simple method in Java
