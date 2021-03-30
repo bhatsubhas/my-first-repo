@@ -7,3 +7,4 @@ Fourth commit
 Change from experimental branch
 Change in experimental branch for Rebase practice
 Change in experimental branch for merge practice
+Change in experimental branch when merging master has also changed
