@@ -3,3 +3,4 @@ New feature which can be used by any user
 Update from master branch to test rebase feature
 This should go in another commit
 Change in experimental branch for Rebase practice
+Change in experimental branch for merge practice
